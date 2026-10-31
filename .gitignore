@@ -1,0 +1,14 @@
+bin/
+obj/
+.vs/
+.idea/
+*.user
+*.suo
+*.mdf
+*.ldf
+*.bak
+.env
+appsettings.Development.json
+
+*.md
+!Readme.md
