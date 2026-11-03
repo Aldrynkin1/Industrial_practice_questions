@@ -9,5 +9,6 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Remove="database/DatabaseIntegration/**/*.cs" />
+    <Compile Remove="Tests/**/*.cs" />
   </ItemGroup>
 </Project>
